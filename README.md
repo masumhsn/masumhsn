@@ -4,9 +4,9 @@ Mechatronics Engineering student at the University of Waterloo with a passion fo
 
 ## Languages
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
