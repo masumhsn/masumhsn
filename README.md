@@ -21,8 +21,8 @@ Mechatronics Engineering student at the University of Waterloo with a passion fo
 ![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 
 ## Tools and Databases
-![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!--
