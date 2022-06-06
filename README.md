@@ -1,6 +1,6 @@
 # Hi, I'm Masum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Mechatronics Engineering student at the University of Waterloo with a passion for software development, machine learning, and reinforcement learning, and robotics. Check out some of my code!
+Mechatronics Engineering student at the University of Waterloo with a passion for software development, artificial intelligence, and robotics. Check out some of my code!
 
 ## Languages
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,6 +14,7 @@ Mechatronics Engineering student at the University of Waterloo with a passion fo
 ![](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ## Frameworks
+![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
